@@ -2002,7 +2002,3 @@ END
 ++ ~Chain Mail Armor~ DO ~Polymorph(THIEF_FEMALE_HALFORC_3)~ EXIT
 ++ ~Start over~ + 0
 ++ ~EXIT~ EXIT
-
-CHAIN IF WEIGHT #-1 ~%monk_class%~ THEN C0WARDRO monk
-~The ascetic have no use for vanity.~
-EXIT
